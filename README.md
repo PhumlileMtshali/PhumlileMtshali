@@ -8,6 +8,7 @@ I'm a passionate web developer learning HTML, CSS, and JavaScript.
 - HTML
 - CSS
 - JavaScript (beginner)
+- C#
 
 ## 📫 Contact Me
 - Email: phumlilesinethemba@gmail.com
