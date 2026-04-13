@@ -8,6 +8,7 @@ I'm a passionate web developer learning HTML, CSS, and JavaScript.
 - HTML
 - CSS
 - JavaScript (beginner)
+- Python
 - C#
 
 ## 📫 Contact Me
@@ -18,4 +19,5 @@ I'm a passionate web developer learning HTML, CSS, and JavaScript.
  - https://github.com/PhumlileMtshali/my-portfolio
  - https://github.com/PhumlileMtshali/project-1
  - https://github.com/PhumlileMtshali/project-2
+ - https://github.com/PhumlileMtshali/Gov-Jobs
 
