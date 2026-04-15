@@ -33,3 +33,5 @@ I'm a passionate web developer learning HTML, CSS, and JavaScript.
  - https://phumlilemtshali.github.io/Gov-Jobs/
 
 5. CornerstoneDigital Project (e-commerce)
+ - https://github.com/PhumlileMtshali/CornerstoneDigital
+ - https://localhost:7050/
